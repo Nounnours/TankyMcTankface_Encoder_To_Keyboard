@@ -1,0 +1,2 @@
+[submodule "libraries/Encoder"]
+	url = https://github.com/PaulStoffregen/Encoder.git
